@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 30px;
+}
+
+#container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+#click {
+    margin-left: 100px;
+}
