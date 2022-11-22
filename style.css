@@ -17,3 +17,26 @@ body {
 #click {
     margin-left: 100px;
 }
+
+#remember {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.dis {
+    visibility: hidden;
+}
+
+.mrg-top-20-mrg-left-100 {
+    margin-top: 20px;
+    margin-left: 80px; 
+}
+
+#indovinati {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#controlla {
+    margin-left: 5px;
+}
